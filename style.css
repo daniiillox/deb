@@ -1,0 +1,25 @@
+main{
+    widows: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.dr{
+    height: 75px;
+    width: 50% ;
+    margin: 30px auto;
+    box-sizing: border-box;
+    background-color: rgba(248, 61, 61, 0.89);
+    color: rgb(14, 11, 11);
+    padding: 25px;
+}
+.gif{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+html{
+    background-color: rgba(150, 150, 150, 0.466)
+}
